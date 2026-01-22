@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-sfxc
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -46,3 +47,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# SFXC.WEBSITE
+ST. FRANCIS XAVIER COLLEGE WEBSITE
+>>>>>>> 24f04eb14dde5fc753ee94e25d8448c94215a1d6
